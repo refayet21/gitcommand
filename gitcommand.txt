@@ -23,3 +23,6 @@ committed to the repository you are working on.
 8. to add all
 #git add --all
 
+commit
+
+
