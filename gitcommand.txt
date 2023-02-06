@@ -35,10 +35,6 @@ git remote add origin https://github.com/refayet21/gitcommand.git
 
 
 
-git branch -M main
-git remote add origin https://github.com/refayet21/gitcommand.git
-
-
 
 
 
