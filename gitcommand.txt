@@ -23,6 +23,15 @@ committed to the repository you are working on.
 8. to add all
 #git add --all
 
-commit
+echo "# gitcommand" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/refayet21/gitcommand.git
+git push -u origin main
+
+
+
 
 
