@@ -1,32 +1,35 @@
-1.creating git
-git config --global user.name "w3schools-test"
-git config --global user.email "test@w3schools.com"
 
-2. create new folder
-mkdir myproject
-3.change directory
-cd myproject
-
-4. git init
-
-#git init
+1.git init
 
 after git init show hide file
 5.to see which file are available in this repo
 dir 
 6. to see which file are available for commit
-#git status
+2.git status
 
 7.Staged files are files that are ready to be 
 committed to the repository you are working on.
  #git add index.html
 8. to add all
-#git add --all
+3.git add --all
 
-echo "# gitcommand" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
+
+#
+git commit 
+4.git commit -m "first commit"
+
+check git branch
+5. git branch
+
+create new branch
+6. git branch otherbranch
+
+7. check git branch list
+git branch --list
+
+8. move to another branch 
+git checkout otherbranch
+
 git branch -M main
 git remote add origin https://github.com/refayet21/gitcommand.git
 git push -u origin main
